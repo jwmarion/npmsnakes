@@ -5,12 +5,12 @@ Snakes
 ## Why?:
 Why spend all that time making boring text decoration in your terminal programs when you can use a snake! This program gives many options to make your project 'beautiful'.
 
-##Install:
+## Install:
 
 npm install -g snakes
 
 
-##To use:
+## To use:
 
 snakes(size, type, callback)
 
